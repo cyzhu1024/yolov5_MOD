@@ -1,0 +1,3 @@
+本项目对于yolov5做了一些改动，添加了一些注释便于理解。
+注释中tensor的shape依据coco128数据集得出
+yolov5源码地址：https://github.com/ultralytics/yolov5
