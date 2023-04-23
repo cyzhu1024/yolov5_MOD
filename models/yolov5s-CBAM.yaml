@@ -1,7 +1,7 @@
 # YOLOv5 🚀 by Ultralytics, GPL-3.0 license
 
 # Parameters
-nc: 80  # number of classes
+nc: 7  # number of classes
 depth_multiple: 0.33  # model depth multiple  深度——神经网络的层数, 宽度——每层的通道数, 分辨率——是指网络中特征图的分辨率
 width_multiple: 0.50  # layer channel multiple
 anchors:
